@@ -1,4 +1,6 @@
-## Hi there 👋
+# 💡 Ideas to Interfaces – My Developer Journey
+
+## Hi there 👋 I'm Nenad Prokopiev. Welcome to my coding universe 🌐
 
 <!--
 **nenoproo/nenoproo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
