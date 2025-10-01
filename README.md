@@ -6,8 +6,8 @@ On a mission to master modern web development — building, experimenting, and g
 
 ## 🚀 Skills
 **Languages:** HTML, CSS, JavaScript, TypeScript  
-**Frameworks & Libraries:** React, Tailwind CSS  
-**Tools:** Visual Studio Code, Postman  
+**Frameworks & Libraries:** React.js, Tailwind CSS  
+**Tools:** Visual Studio Code, Postman, Figma  
 **Version Control:** Git, GitHub
 
 ## 🌐 [My Portfolio](https://nenadprokopiev.com)
