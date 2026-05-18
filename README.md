@@ -2,12 +2,13 @@
 
 Hi there 👋 I'm Nenad Prokopiev. Welcome to my coding universe 🌐  
 Aspiring front-end developer with a background in music and a love for clean code.  
-On a mission to master modern web development - building, experimenting, and growing while constantly exploring new tools and techniques.
+On a mission to master modern full-stack development - building, experimenting, and growing while constantly exploring new tools and techniques.
 
 ## 🚀 Skills
 **Languages:** HTML, CSS, JavaScript, TypeScript  
-**Frameworks & Libraries:** React.js, Tailwind CSS  
-**Tools / Platforms:** VS Code, Vite, Postman, Axios, Fetch API, Figma (design to code)  
+**Frontend:** React.js, Tailwind CSS  
+**Backend:** Node.js, Express.js, MongoDB (MongoDB Atlas)  
+**Platforms / Tools:** VS Code, Vite, Postman, Figma (design to code), Axios, Fetch API  
 **Version Control:** Git, GitHub
 
 ## 🌐 [My Portfolio](https://nenadprokopiev.com/#frontend-projects)
